@@ -166,7 +166,7 @@ nav ul li a {
 }
 
 .team-text {
-    width: 537px;
+    max-width: 537px;
 }
 
 .team-text .first-h {
@@ -293,7 +293,7 @@ nav ul li a {
 }
 
 .sponsors-heading{
-    width: 542px;
+    max-width: 542px;
     margin: auto;
 }
 
