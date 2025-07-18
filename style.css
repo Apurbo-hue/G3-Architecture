@@ -201,6 +201,10 @@ nav ul li a {
     .team-text {
         text-align: center;
     }
+
+    .team-img{
+        grid-template-columns: repeat(1,1fr);
+    }
    
 }
 
